@@ -1,0 +1,42 @@
+crop_name,description,days_to_grow,multiple_harvests,season
+Amaranth,A purple grain cultivated by an ancient civilization.,7,NO,Fall
+Aichoke,"The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.",8,NO,Fall
+Beet,"A sweet and earthy root vegatable. As a bonus, the leaves make a great salad.",6,NO,Fall
+Bok Choy,The leafy greens and fibrous stalks are healthy and delicious.,4,NO,Fall
+Fairy Rose,An old folk legend suggests that the sweet smell of this flower attracts fairies.,12,NO,Fall
+Pumpkin,"A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",13,NO,Fall
+Sunflower,A common misconception is that the flower turns so it's always facing the sun.,8,NO,Fall
+Sweet Gem Berry,It's by far the sweetest thing you've ever smelled.,24,NO,Fall
+Wheat,One of the most widely cultivated grains. Makes a great flour for breads and cakes.,4,NO,Fall
+Yam,A starchy tuber with a lot of culinary versatility.,10,NO,Fall
+Corn,"One of the most popular grains. The sweet, fresh cobs are a summer favorite.",14,YES,Fall
+Cranberries,These tart red berries are a traditional winter food.,7,YES,Fall
+Eggplant,A rich and wholesome relative of the tomato. Delicious fried or stewed.,5,YES,Fall
+Grape,A sweet cluster of fruit.,10,YES,Fall
+Melon,"A cool, sweet summer treat.",12,NO,Summer
+Poppy,"In addition to its colorful flower, the Poppy has culinary and medicinal uses.",7,NO,Summer
+Radish,A crisp and refreshing root vegetable with hints of pepper when eaten raw.,6,NO,Summer
+Red Cabbage,Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.,9,NO,Summer
+Starfruit,"An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.",13,NO,Summer
+Summer Spangle,"A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",8,NO,Summer
+Sunflower,A common misconception is that the flower turns so it's always facing the sun.,8,NO,Summer
+Wheat,One of the most widely cultivated grains. Makes a great flour for breads and cakes.,4,NO,Summer
+Blueberry,A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.,13,YES,Summer
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,10,YES,Summer
+Corn,"One of the most popular grains. The sweet, fresh cobs are a summer favorite.",14,YES,Summer
+Hops,"A bitter, tangy flower used to flavor beer.",11,YES,Summer
+Hot Pepper,Fiery hot with a hint of sweetness.,5,YES,Summer
+Tomato,"Rich and slightly tangy, the Tomato has a wide variety of culinary uses.",11,YES,Summer
+Blue Jazz,The flower grows in a shere to nvite as may butterflies as possible.,7,NO,Spring
+Cauliflower,"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.",12,NO,Spring
+Garlic,Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.,4,NO,Spring
+Kale,The waxy leaves are great in soups and stir frys.,6,NO,Spring
+Parsnip,A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.,4,NO,Spring
+Potato,A widely cultivated tuber.,6,NO,Spring
+Rhubarb,"The stalks are extremely tart, but make a great dessert when sweetened.",13,NO,Spring
+Tulip,The most popular spring flower. Has a very faint sweet smell.,6,NO,Spring
+Unmilled Rice (Irrigated),Rice in its rawest form. Run this through a mill to increase the value.,6,NO,Spring
+Unmilled Rice Unirrigated),Rice in its rawest form. Run this through a mill to increase the value.,8,NO,Spring
+Coffee Bean,Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.,10,YES,Spring
+Green Bean,"A juicy little bean with a cool, crisp snap.",10,YES,Spring
+Strawberry,"A sweet, juicy favorite with an appealing red color.",8,YES,Spring
